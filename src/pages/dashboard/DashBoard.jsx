@@ -1,5 +1,5 @@
-import Header from "../component/header/Header";
-import SidBar from "../component/sidbar/SidBar";
+import Header from "../../component/header/Header";
+import SidBar from "../../component/sidbar/SidBar";
 
 const DashBoard = () => {
   return (
