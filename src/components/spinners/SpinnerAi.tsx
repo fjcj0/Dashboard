@@ -11,5 +11,4 @@ const SpinnerAi = () => {
         </div>
     );
 }
-
 export default SpinnerAi

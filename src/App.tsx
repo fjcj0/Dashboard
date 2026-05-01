@@ -5,11 +5,10 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<DashboardLayout/>}>
-          <Route path="ai" />
           <Route path="cars" />
           <Route path="car/:id" />
           <Route path="bookings"/>
-          <Route path="ai"/>
+          <Route path="users"/>
         </Route> 
       </Routes>
     </>

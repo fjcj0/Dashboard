@@ -2,8 +2,7 @@ import {
   LayoutDashboardIcon,
   CarIcon,
   CalendarIcon,
-  SparklesIcon,
-  UserIcon,
+  Users,
 } from "lucide-react";
 export const dashboardLinks = [
   {
@@ -22,9 +21,9 @@ export const dashboardLinks = [
     path: "/bookings",
   },
   {
-    name: "AI",
-    icon: SparklesIcon,
-    path: "/ai",
+    name: "Users",
+    icon: Users,
+    path: "/users",
   },
 ];
 export const carsDetails: {
